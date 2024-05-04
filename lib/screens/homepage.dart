@@ -1,4 +1,4 @@
-import 'package:barcode_app/database_helper.dart';
+import 'package:barcode_app/logic/database_helper.dart';
 import 'package:barcode_app/product_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_barcode_sdk/flutter_barcode_sdk.dart';
